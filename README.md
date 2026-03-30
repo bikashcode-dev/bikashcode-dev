@@ -26,7 +26,7 @@ public class BikashKumar {
     String motto    = "Build real projects, not just code.";
 
     String[] currentlyBuilding = {
-        "⚡ SwiftReply — AI-powered Gmail Chrome Extension",
+        "⚡ quickMail — AI-powered Gmail Chrome Extension",
         "🤖 AI Email Generator with Gemini + Groq fallback",
         "🔐 Secure Spring Boot REST APIs with JWT"
     };
