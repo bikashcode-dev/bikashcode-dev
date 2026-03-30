@@ -37,9 +37,9 @@ public class BikashKumar {
 
 ## 🏆 Featured Project — SwiftReply (AI Gmail Extension)
 
-> AI-powered Chrome Extension that generates smart email replies directly inside Gmail using Spring Boot + Gemini/Groq AI.
+> Built an AI-powered Chrome Extension that reads email context from Gmail, understands user instructions in natural language, and generates intelligent, context-aware replies using a Spring Boot backend
 
-**Tech used:** `Spring Boot` `Java` `Gemini AI` `Groq` `Chrome Extension` `JavaScript` `REST API`
+**Tech used:** `Spring Boot` `Java` `Gemini AI` `Groq``OpenRouter` `Chrome Extension` `JavaScript``CSS` `REST API`
 
 ---
 
