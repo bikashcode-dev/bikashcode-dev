@@ -1,14 +1,16 @@
-# Hi there, I'm Bikash Kumar 👋
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+REST+API+Expert;AI+Tool+Builder+%E2%9A%A1;Chrome+Extension+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00d9ff&height=120&section=header&text=Bikash%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+REST+API+Expert+%E2%98%95;AI+Tool+Builder+%E2%9A%A1;Chrome+Extension+Developer+%F0%9F%A7%A9" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-sah-java)
-[![Email](https://img.shields.io/badge/Email-bikashcode%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashcode@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev)
+[![Email](https://img.shields.io/badge/Gmail-bikashcode%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashcode@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -23,34 +25,64 @@ public class BikashKumar {
     String focus    = "Spring Boot · REST APIs · AI Tools";
     String motto    = "Build real projects, not just code.";
 
-    String[] currently = {
-        "Building AI-powered email tools",
-        "Developing Chrome Extensions for Gmail",
-        "Designing scalable Spring Boot backends"
+    String[] currentlyBuilding = {
+        "⚡ SwiftReply — AI-powered Gmail Chrome Extension",
+        "🤖 AI Email Generator with Gemini + Groq fallback",
+        "🔐 Secure Spring Boot REST APIs with JWT"
     };
 
-    String contact  = "bikashcode@gmail.com";
+    String contact = "bikashcode@gmail.com";
 }
 ```
 
 ---
 
-## 🏆 Featured Project — SwiftReply (AI Gmail Extension)
+## 🏆 Featured Project
 
-> Built an AI-powered Chrome Extension that reads email context from Gmail, understands user instructions in natural language, and generates intelligent, context-aware replies using a Spring Boot backend
+<div align="center">
 
-**Tech used:** `Spring Boot` `Java` `Gemini AI` `Groq``OpenRouter` `Chrome Extension` `JavaScript``CSS` `REST API`
+### ⚡ SwiftReply — AI Gmail Assistant
+
+[![SwiftReply](https://img.shields.io/badge/Project-SwiftReply-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
+[![AI Powered](https://img.shields.io/badge/AI-Gemini+Groq-FF6B6B?style=for-the-badge&logo=google&logoColor=white)](#)
+
+</div>
+
+> 🚀 A Chrome Extension that injects an **AI Reply button directly inside Gmail**. One click generates a professional, human-like email reply using Gemini AI with Groq as fallback — powered by a Spring Boot backend.
+
+```
+✅ AI Reply button injected in Gmail compose toolbar
+✅ 6 tone options — Professional, Friendly, Formal, Casual, Polite, Confident
+✅ Spring Boot REST API backend with Gemini + Groq dual-engine
+✅ Human-like replies — no robotic AI-sounding text
+✅ Works on both compose window and reply thread
+```
+
+**Tech Stack:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logo=thunderbird&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ---
 
 ## 🚀 What I Build
 
-| Project Type | Description |
-|---|---|
-| ⚡ **REST APIs** | Production-ready, clean, well-documented |
-| 🤖 **AI Tools** | Email automation powered by Gemini & Groq |
-| 🧩 **Chrome Extensions** | Gmail integration & productivity tools |
-| 🗄️ **Database Apps** | MySQL + MongoDB driven systems |
+<div align="center">
+
+| 🔧 Type | 📌 Description | 🛠 Tech |
+|:---|:---|:---|
+| ⚡ **REST APIs** | Production-ready, clean, well-documented APIs | Spring Boot, Java |
+| 🤖 **AI Tools** | Email automation with Gemini & Groq AI | Spring AI, REST |
+| 🧩 **Chrome Extensions** | Gmail integration & browser productivity tools | JS, Content Scripts |
+| 🗄️ **Database Apps** | Scalable data-driven backend systems | MySQL, MongoDB |
+| 🔐 **Secure Backends** | JWT auth, Spring Security implementations | Spring Security |
+
+</div>
 
 ---
 
@@ -76,26 +108,31 @@ public class BikashKumar {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React_(Basic)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ⚙️ Tools, DevOps & Integrations
+### ⚙️ Tools & Integrations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis_Integration-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka_(Basic)-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 💡 Skills at a Glance
 
+<div align="center">
+
 | Category | Skills |
-|---|---|
-| **Core Backend** | Core Java · Spring · Spring Boot · REST API |
-| **Security** | Spring Security · JWT · Auth |
-| **Database** | MySQL · MongoDB · JDBC · JPA · Hibernate |
-| **Frontend** | HTML · CSS · JavaScript · React (Basic) |
-| **Messaging** | Redis Integration · Kafka (Basic) |
-| **Dev Tools** | Git · GitHub · IntelliJ · Postman |
+|:---|:---|
+| ☕ **Core Backend** | Core Java · Spring · Spring Boot · REST API |
+| 🔐 **Security** | Spring Security · JWT · Authentication |
+| 🗄️ **Database** | MySQL · MongoDB · JDBC · JPA · Hibernate |
+| 🌐 **Frontend** | HTML · CSS · JavaScript · React (Basic) |
+| ⚡ **Messaging** | Redis Integration · Kafka (Basic) |
+| 🛠️ **Dev Tools** | Git · GitHub · IntelliJ · VS Code · Postman |
+
+</div>
 
 ---
 
@@ -103,12 +140,12 @@ public class BikashKumar {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bikashcode-dev&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=bikashcode-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -129,8 +166,9 @@ Chrome Extensions    ████████████░░░░░░░�
 
 <div align="center">
 
-💼 **LinkedIn:** [linkedin.com/in/bikash-sah-java](https://www.linkedin.com/in/bikash-sah-java)
-📧 **Email:** [bikashcode@gmail.com](mailto:bikashcode@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-sah-java)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashcode@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev)
 
 </div>
 
@@ -138,8 +176,8 @@ Chrome Extensions    ████████████░░░░░░░�
 
 <div align="center">
 
-⭐ *"Build real projects, not just code."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:1a73e8&height=80&section=footer&animation=fadeIn" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=bikashcode-dev&color=00d9ff&style=flat-square&label=Profile+Views)
+⭐ *"Build real projects, not just code."*
 
 </div>
