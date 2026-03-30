@@ -42,11 +42,11 @@ public class BikashKumar {
 
 <div align="center">
 
-### ⚡ SwiftReply — AI Gmail Assistant
+### ⚡ quickMail — AI Gmail Assistant
 
-[![quickMail](https://img.shields.io/badge/Project-SwiftReply-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![quickMail](https://img.shields.io/badge/Project-quickMail-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
-[![AI Powered](https://img.shields.io/badge/AI-Gemini+Groq-FF6B6B?style=for-the-badge&logo=google&logoColor=white)](#)
+[![AI Powered](https://img.shields.io/badge/AI-Gemini+Groq+-FF6B6B?style=for-the-badge&logo=google&logoColor=white)](#)
 
 </div>
 
@@ -54,7 +54,7 @@ public class BikashKumar {
 
 ```
 ✅ AI Reply button injected in Gmail compose toolbar
-✅ 6 tone options — Professional, Friendly, Formal, Casual, Polite, Confident
+✅ 6 tone options and Auto tone Detected — Professional, Friendly, Formal, Casual, Polite, Confident and Auto
 ✅ Spring Boot REST API backend with Gemini + Groq dual-engine
 ✅ Human-like replies — no robotic AI-sounding text
 ✅ Works on both compose window and reply thread
