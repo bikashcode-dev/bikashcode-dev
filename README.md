@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-sah-java)
-[![Email](https://img.shields.io/badge/Gmail-bikashcode%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashcode@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-bikashcod%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashcode@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views)
