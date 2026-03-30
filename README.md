@@ -101,12 +101,6 @@ public class BikashKumar {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bikashcode-dev&color=00d9ff&style=flat-square&label=Profile+Views)
 
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bikash-kumar&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🎯 Current Focus
