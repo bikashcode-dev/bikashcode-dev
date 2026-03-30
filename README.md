@@ -95,7 +95,7 @@ public class BikashKumar {
 ![Kafka](https://img.shields.io/badge/Kafka_(Basic)-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
 ## 💡 Skills at a Glance
@@ -115,13 +115,12 @@ public class BikashKumar {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bikash-kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikash-kumar&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=bikashcode-dev&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bikash-kumar&theme=tokyonight&hide_border=true)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=bikashcode-dev&color=00d9ff&style=flat-square&label=Profile+Views)
 </div>
 
 ---
