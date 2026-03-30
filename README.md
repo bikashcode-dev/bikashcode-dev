@@ -94,10 +94,12 @@ public class BikashKumar {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bikash-kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikash-kumar&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=bikashcode-dev&theme=tokyonight&hide_border=true)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=bikashcode-dev&color=00d9ff&style=flat-square&label=Profile+Views)
 
 <br/>
 
