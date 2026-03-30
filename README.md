@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00d9ff&height=120&section=header&text=Bikash%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+REST+API+dev+%E2%98%95;AI+Tool+Builder+%E2%9A%A1;Chrome+Extension+Developer+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+,+Spring+Boot+%7C+REST+API+dev+%E2%98%95;SPRING+SECURITY+%E2%9A%A1;MONOGODB+MySQL+%F0%9F%A7%A9,SPRING+SECURITY+%E2%9A%A1;Radis(Basic)+kafka+%F0%9F%A7%A9" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=JDBC+SQL+DEV+%F0%9F%9A%80;HTML+%7C+JAVASCRIP+CSS+Dev+%E2%98%95;AI+Intgration+%E2%9A%A1;Chrome+Extension+Developer+%F0%9F%A7%A9" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-sah-java)
