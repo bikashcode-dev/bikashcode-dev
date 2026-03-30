@@ -132,6 +132,6 @@ Chrome Extensions    ████████████░░░░░░░�
 
 ⭐ *"Build real projects, not just code."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=bikash-kumar&color=00d9ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=bikashcode-dev&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
