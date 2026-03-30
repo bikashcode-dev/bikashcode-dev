@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-sah-java)
 [![Email](https://img.shields.io/badge/Email-bikashcode%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashcode@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikash-kumar)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev)
 
 </div>
 
@@ -38,18 +38,6 @@ public class BikashKumar {
 ## 🏆 Featured Project — SwiftReply (AI Gmail Extension)
 
 > AI-powered Chrome Extension that generates smart email replies directly inside Gmail using Spring Boot + Gemini/Groq AI.
-
-<div align="center">
-
-| AI Reply Button in Gmail | Generated Reply in Compose |
-|:---:|:---:|
-| <img src="assets/demo1-ai-button.png" width="400"/> | <img src="assets/demo2-generated-reply.png" width="400"/> |
-
-| Full AI Reply in Thread | Extension in Chrome |
-|:---:|:---:|
-| <img src="assets/demo3-reply-thread.png" width="400"/> | <img src="assets/demo4-chrome-store.png" width="400"/> |
-
-</div>
 
 **Tech used:** `Spring Boot` `Java` `Gemini AI` `Groq` `Chrome Extension` `JavaScript` `REST API`
 
@@ -95,7 +83,7 @@ public class BikashKumar {
 ![Kafka](https://img.shields.io/badge/Kafka_(Basic)-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## 💡 Skills at a Glance
@@ -118,9 +106,10 @@ public class BikashKumar {
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
+<br/>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=bikashcode-dev&theme=tokyonight&hide_border=true)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=bikashcode-dev&color=00d9ff&style=flat-square&label=Profile+Views)
 </div>
 
 ---
@@ -151,6 +140,6 @@ Chrome Extensions    ████████████░░░░░░░�
 
 ⭐ *"Build real projects, not just code."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=bikash-kumar&color=00d9ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=bikashcode-dev&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
