@@ -43,7 +43,7 @@ public class BikashKumar {
 
 ### ⚡ SwiftReply — AI Gmail Assistant
 
-[![SwiftReply](https://img.shields.io/badge/Project-SwiftReply-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![quickMail](https://img.shields.io/badge/Project-SwiftReply-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
 [![AI Powered](https://img.shields.io/badge/AI-Gemini+Groq-FF6B6B?style=for-the-badge&logo=google&logoColor=white)](#)
 
