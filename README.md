@@ -2,10 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00d9ff&height=120&section=header&text=Bikash%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+,+Spring+Boot+%7C+REST+API+dev+%E2%98%95;SPRING+SECURITY+%E2%9A%A1;MONOGODB+MySQL+%F0%9F%A7%A9,SonarQube+%E2%9A%A1;Radis(Basic)+kafka+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+%7C+Spring+Boot+%7C+REST+API+%E2%98%95;Spring+Security+%7C+JWT+%7C+OTP+Auth+%F0%9F%94%90;MongoDB+%7C+MySQL+%7C+SQL+%F0%9F%A7%A9;SonarQube+%7C+Redis+(Basic)+%7C+Kafka+(Basic)+%E2%9A%A1" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=JDBC+SQL+DEV+%F0%9F%9A%80;HTML+%7C+JAVASCRIP+CSS+Dev+%E2%98%95;AI+Intgration+%E2%9A%A1;Chrome+Extension+Developer+%F0%9F%A7%A9" alt="Typing SVG" />
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=JDBC+%7C+JPA+%7C+Hibernate+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript+Dev+%E2%98%95;AI+Integration+%7C+Gemini+%7C+Groq+%E2%9A%A1;Chrome+Extension+Developer+%F0%9F%A7%A9;Core+Java+%7C+Java+8+Features+%F0%9F%94%A5" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-sah-java)
 [![Email](https://img.shields.io/badge/Gmail-bikashcod%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashcode@gmail.com)
@@ -112,12 +111,12 @@ public class BikashKumar {
 ### ⚙️ Tools & Integrations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis_Integration-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka_(Basic)-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ---
 
 ## 💡 Skills at a Glance
