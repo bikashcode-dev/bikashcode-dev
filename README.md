@@ -49,16 +49,6 @@ public class BikashKumar {
 
 ## 🏆 My Project
 
-<div align="center">
-
-###  quickMail — AI Gmail Assistant
-
-[![quickMail](https://img.shields.io/badge/Project-quickMail-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
-[![AI Powered](https://img.shields.io/badge/AI-Gemini+Groq+-FF6B6B?style=for-the-badge&logo=google&logoColor=white)](#)
-
-</div>
-
 > 🚀 A Chrome Extension that injects an **AI Reply button directly inside Gmail**. One click generates a professional, human-like email reply using Gemini AI with Groq as fallback — powered by a Spring Boot backend.
 
 ```
