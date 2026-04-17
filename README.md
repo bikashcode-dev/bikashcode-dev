@@ -1,47 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00d9ff&height=120&section=header&text=Bikash%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00d9ff&height=120&section=header&text=Bikash%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=65" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+%7C+Spring+Boot+%7C+REST+API+%E2%98%95;Spring+Security+%7C+JWT+%7C+OTP+Auth+%F0%9F%94%90;MongoDB+%7C+MySQL+%7C+SQL+%F0%9F%A7%A9;SonarQube+%7C+Redis+(Basic)+%7C+Kafka+(Basic)+%E2%9A%A1" alt="Typing SVG" />
+<h2>🚀 Java Backend Developer</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&height=60&lines=JDBC+%7C+JPA+%7C+Hibernate+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript+Dev+%E2%98%95;AI+Integration+%7C+Gemini+%7C+Groq+%E2%9A%A1;Chrome+Extension+Developer+%F0%9F%A7%A9;Core+Java+%7C+Java+8+Features+%F0%9F%94%A5" alt="Typing SVG" />
+<p>
+Core Java • Java 8 • Spring • Spring Boot • Spring MVC • Spring Security • REST APIs  
+<br/>
+SQL • MongoDB • JPA • Hibernate • JDBC  
+<br/>
+HTML • CSS • JavaScript • React (Basic)  
+<br/>
+JUnit • Problem Solving (DSA)
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-sah-java)
-[![Email](https://img.shields.io/badge/Gmail-bikashcod%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashcode@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views)
+<a href="https://www.linkedin.com/in/bikash-sah-java">
+  <img src="https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bikashcode@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-bikashcode@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bikashcode-dev">
+  <img src="https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
 ```java
 public class BikashKumar {
-
-    String role     = "Java Backend Developer";
-    String focus    = "Spring Boot · REST APIs · AI Tools";
-    String motto    = "Build real projects, not just code.";
-
-    String[] currentlyBuilding = {
-        "⚡ quickMail — AI-powered Gmail Chrome Extension",
-        "🤖 AI Email Generator with Gemini + Groq fallback",
-        "🔐 Secure Spring Boot REST APIs with JWT"
-    };
-
+   String role  = "Java Backend Developer";
+   String focus = "Spring Boot · REST APIs · Scalable Systems";
+   String motto = "Focused on building real-world backend systems and solving problems.";
     String contact = "bikashcode@gmail.com";
 }
 ```
-
 ---
 
-## 🏆 Featured Project
+## 🏆 My Project
 
 <div align="center">
 
-### ⚡ quickMail — AI Gmail Assistant
+###  quickMail — AI Gmail Assistant
 
 [![quickMail](https://img.shields.io/badge/Project-quickMail-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
@@ -178,6 +188,6 @@ Chrome Extensions    ████████████░░░░░░░�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:1a73e8&height=80&section=footer&animation=fadeIn" />
 
-⭐ *"Build real projects, not just code."*
+
 
 </div>
