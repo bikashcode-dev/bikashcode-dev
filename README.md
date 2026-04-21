@@ -23,15 +23,11 @@ JUnit • Problem Solving (DSA)
 <a href="mailto:bikashcode@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-bikashcode@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/bikashcode-dev">
   <img src="https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views"/>
-
 </div>
 
 ---
