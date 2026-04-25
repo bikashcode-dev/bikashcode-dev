@@ -7,7 +7,7 @@
 <p>
 Core Java • Java 8 • Spring • Spring Boot • Spring MVC • Spring Security • REST APIs  
 <br/>
-SQL • MongoDB • JPA • Hibernate • JDBC  
+SQL • MongoDB • JPA / Hibernate • JDBC  
 <br/>
 HTML • CSS • JavaScript • React (Basic)  
 <br/>
@@ -31,7 +31,7 @@ JUnit • Problem Solving (DSA)
 </div>
 
 ---
-## 🧑‍💻 About Me
+## About Me
 
 ```java
 public class BikashKumar {
@@ -44,9 +44,9 @@ public class BikashKumar {
 ```
 ---
 
-## 🏆 My Project
+## My Project
 
-> 🚀 A Chrome Extension that injects an **AI Reply button directly inside Gmail**. One click generates a professional, human-like email reply using Gemini AI with Groq as fallback — powered by a Spring Boot backend.
+>  A Chrome Extension that injects an **AI Reply button directly inside Gmail**. One click generates a professional, human-like email reply using Gemini AI with Groq as fallback — powered by a Spring Boot backend.
 
 ```
 ✅ AI Reply button injected in Gmail compose toolbar
@@ -71,41 +71,41 @@ public class BikashKumar {
 
 <div align="center">
 
-| 🔧 Type | 📌 Description | 🛠 Tech |
+| 🔧 Type Description | 🛠 Tech |
 |:---|:---|:---|
-| ⚡ **REST APIs** | Production-ready, clean, well-documented APIs | Spring Boot, Java |
-| 🤖 **AI Tools** | Email automation with Gemini & Groq AI | Spring AI, REST |
-| 🧩 **Chrome Extensions** | Gmail integration & browser productivity tools | JS, Content Scripts |
-| 🗄️ **Database Apps** | Scalable data-driven backend systems | MySQL, MongoDB |
-| 🔐 **Secure Backends** | JWT auth, Spring Security implementations | Spring Security |
+| **REST APIs** | Production-ready, clean, well-documented APIs | Spring Boot, Java |
+| **AI Tools** | Email automation with Gemini & Groq AI | Spring AI, REST |
+| **Chrome Extensions** | Gmail integration & browser productivity tools | JS, Content Scripts |
+| **Database Apps** | Scalable data-driven backend systems | MySQL, MongoDB |
+| **Secure Backends** | JWT auth, Spring Security implementations | Spring Security |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☕ Core Java & Backend
+###  Core Java & Backend
 ![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### 🗄️ Database & ORM
+### Database & ORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### 🌐 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React_(Basic)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ⚙️ Tools & Integrations
+###  Tools & Integrations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
@@ -116,23 +116,23 @@ public class BikashKumar {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
-## 💡 Skills at a Glance
+## Skills at a Glance
 
 <div align="center">
 
 | Category | Skills |
 |:---|:---|
-| ☕ **Core Backend** | Core Java · Spring · Spring Boot · REST API |
-| 🔐 **Security** | Spring Security · JWT · Authentication |
-| 🗄️ **Database** | MySQL · MongoDB · JDBC · JPA · Hibernate |
-| 🌐 **Frontend** | HTML · CSS · JavaScript · React (Basic) |
-| ⚡ **Messaging** | Redis Integration · Kafka (Basic) |
-| 🛠️ **Dev Tools** | Git · GitHub · IntelliJ · VS Code · Postman |
+|  **Core Backend** | Core Java · Spring · Spring Boot · REST API |
+|  **Security** | Spring Security · JWT · Authentication |
+|  **Database** | MySQL · MongoDB · JDBC · JPA · Hibernate |
+|  **Frontend** | HTML · CSS · JavaScript · React (Basic) |
+|  **Messaging** | Redis Integration · Kafka (Basic) |
+|  **Dev Tools** | Git · GitHub · IntelliJ · VS Code · Postman |
 
 </div>
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -141,7 +141,7 @@ public class BikashKumar {
 </div>
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```
 Backend Development  ████████████████████  100%
@@ -152,7 +152,7 @@ Chrome Extensions    ████████████░░░░░░░�
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
