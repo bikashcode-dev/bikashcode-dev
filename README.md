@@ -139,18 +139,6 @@ public class BikashKumar {
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 </div>
----
-
-##  Current Focus
-
-```
-Backend Development  ████████████████████  100%
-API Design           ████████████████░░░░   80%
-AI Integration       ██████████████░░░░░░   70%
-Chrome Extensions    ████████████░░░░░░░░   60%
-```
-
----
 
 ## Let's Connect
 
