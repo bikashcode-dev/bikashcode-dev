@@ -5,9 +5,7 @@
 </div>
 
 ---
-
 <div align="center">
-
 <a href="https://www.linkedin.com/in/bikash-sah-java">
   <img src="https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -19,16 +17,14 @@
 <a href="https://github.com/bikashcode-dev">
   <img src="https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```java
 public class BikashKumar {
@@ -52,9 +48,9 @@ public class BikashKumar {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### ☕ Core Java & Backend
+###  Core Java & Backend
 ![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java 8](https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -62,28 +58,28 @@ public class BikashKumar {
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🔒 Security
+###  Security
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🗄️ Database & ORM
+###  Database & ORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### 🎨 Frontend
+###  Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React_(Basic)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 📨 Messaging & Cache
+###  Messaging & Cache
 ![Kafka](https://img.shields.io/badge/Kafka_(Basic)-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis_Integration-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🧰 Tools & Dev
+###  Tools & Dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -94,11 +90,11 @@ public class BikashKumar {
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 <div align="center">
 
-### 📧 AI Email Reply — Gmail Chrome Extension
+###  AI Email Reply — Gmail Chrome Extension
 
 </div>
 
@@ -126,7 +122,7 @@ public class BikashKumar {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -142,7 +138,7 @@ public class BikashKumar {
 
 </div>
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
