@@ -77,7 +77,7 @@ public class BikashKumar {
 
 ###  Messaging & Cache
 ![Kafka](https://img.shields.io/badge/Kafka_(Basic)-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_Integration-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Integration(BASIC)-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ###  Tools & Dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
