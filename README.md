@@ -28,16 +28,12 @@
 
 ```java
 public class BikashKumar {
+    String role    = "Java full-stack Developer";
+    String focus   = "Spring Boot · problem-solving, real-world-project";
 
-    // ── Who I am ──────────────────────────────────────────────
-    String role    = "Java Backend Developer";
-    String focus   = "Spring Boot · REST APIs · Scalable Systems";
-
-    // ── What I build ──────────────────────────────────────────
-    String builds  = "Production-grade backends, AI tools, secure APIs";
+    String builds  = "Production-grade backends, , secure APIs , ";
     String loves   = "Clean code, real-world projects, continuous learning";
 
-    // ── Reach me ──────────────────────────────────────────────
     String email   = "bikashcode@gmail.com";
     String phone   = "9771966891";
 }
