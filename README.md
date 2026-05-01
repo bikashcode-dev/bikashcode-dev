@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a73e8,100:00d9ff&height=200&section=header&text=Bikash%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Java%20Backend%20Developer&descAlignY=75&descSize=20&animation=fadeIn" />
 
 </div>
-
 ---
 <div align="center">
 <a href="https://www.linkedin.com/in/bikash-sah-java">
@@ -21,11 +20,8 @@
 <img src="https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views"/>
 
 </div>
-
 ---
-
 ##  About Me
-
 ```java
 public class BikashKumar {
     String role    = "Java full-stack Developer";
@@ -41,9 +37,7 @@ public class BikashKumar {
 
 > I'm a Java full-stack developer focused on building **real-world, systems, problem solving**.
 > I write clean, scalable code and enjoy solving complex backend problems with Spring Boot & REST APIs.
-
 ---
-
 ##  Tech Stack
 
 ###  Core Java & Backend
