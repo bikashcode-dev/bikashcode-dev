@@ -4,6 +4,7 @@
 
 </div>
 ---
+
 <div align="center">
 <a href="https://www.linkedin.com/in/bikash-sah-java">
   <img src="https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,9 +21,13 @@
 <img src="https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views"/>
 
 </div>
+
 ---
+
 ##  About Me
+
 ```java
+
 public class BikashKumar {
     String role    = "Java full-stack Developer";
     String focus   = "Spring Boot · problem-solving, real-world-project";
