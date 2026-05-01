@@ -41,7 +41,7 @@ public class BikashKumar {
 ```
 
 > I'm a Java full-stack developer focused on building **real-world, systems, problem solving**.
-> I write clean, scalable code and enjoy solving complex backend problems with Spring Boot & REST APIs.
+> I write clean, scalable code and enjoy solving  problems with Spring Boot & REST APIs.
 ---
 ##  Tech Stack
 
