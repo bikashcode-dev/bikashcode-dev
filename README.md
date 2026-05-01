@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:bikashcode@gmail.com">
+<a href="mailto:bikashcod@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-bikashcod@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
