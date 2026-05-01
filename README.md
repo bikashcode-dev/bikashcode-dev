@@ -32,10 +32,10 @@ public class BikashKumar {
     String role    = "Java full-stack Developer";
     String focus   = "Spring Boot · problem-solving, real-world-project";
 
-    String builds  = "Production-grade backends, , secure APIs , ";
+    String builds  = "Backend systems, REST APIs,  full-stack application ";
     String loves   = "Clean code, real-world projects, continuous learning";
 
-    String email   = "bikashcode@gmail.com";
+    String email   = "bikashcod@gmail.com";
     String phone   = "9771966891";
 }
 ```
