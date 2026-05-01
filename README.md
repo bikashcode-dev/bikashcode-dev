@@ -11,10 +11,10 @@
 </a>
 &nbsp;
 <a href="mailto:bikashcode@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-bikashcode@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-bikashcod@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/bikashcode-dev">
+<a href="https://github.com/bikashcod-dev">
   <img src="https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br/><br/>
