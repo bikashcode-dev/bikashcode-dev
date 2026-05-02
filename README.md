@@ -121,14 +121,6 @@ public class BikashKumar {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashcode-dev&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
