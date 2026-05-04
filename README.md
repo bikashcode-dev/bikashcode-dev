@@ -32,8 +32,8 @@ public class BikashKumar {
     String role    = "Java full-stack Developer";
     String focus   = "Spring Boot · problem-solving, real-world-project";
 
-    String builds  = "Backend systems, REST APIs,  full-stack application ";
-    String loves   = "Clean code, real-world projects, continuous learning";
+    String builds  = "Backend systems, REST APIs,  full-stack application,  ";
+    String loves   = "Clean code, real-world projects, continuous learning, Teamwork, new teconoloye";
 
     String email   = "bikashcod@gmail.com";
     String phone   = " 9771966891";
