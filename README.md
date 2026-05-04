@@ -36,7 +36,7 @@ public class BikashKumar {
     String loves   = "Clean code, real-world projects, continuous learning";
 
     String email   = "bikashcod@gmail.com";
-    String phone   = "9771966891";
+    String phone   = " 9771966891";
 }
 ```
 
