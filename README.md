@@ -35,7 +35,7 @@ public class BikashKumar {
     String builds  = "Backend systems, REST APIs,  full-stack application,  ";
     String loves   = "Clean code, real-world projects, continuous learning, Teamwork, new teconoloye";
 
-    String email   = "bikashcod@gmail.com";
+    String email   = "bikashcod@gmail.com / biakshsah.dev@gmail.com ";
     String phone   = " 9771966891";
 }
 ```
