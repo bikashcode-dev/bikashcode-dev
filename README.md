@@ -8,7 +8,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/bikash-sah-java">
-  <img src="https://img.shields.io/badge/LinkedIn-Bikash%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Bikah%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:bikashcod@gmail.com">
