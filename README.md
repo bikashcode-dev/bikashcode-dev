@@ -40,8 +40,7 @@ public class BikashSah {
 }
 ```
 
-> I'm a Java full-stack developer focused on building **real-world products, backend systems, and AI-powered tools**.  
-> I enjoy writing clean, scalable code and solving practical problems with **Spring Boot, REST APIs, databases, and frontend integration**.
+>"Java Full-Stack Developer | Spring Boot Enthusiast | Building Scalable Backend Systems & AI-powered Automations. Passionate about writing clean code, designing RESTful APIs, and solving real-world problems. Always learning, building, and deploying.".
 
 ---
 
