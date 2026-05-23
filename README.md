@@ -155,7 +155,7 @@ public class BikashSah {
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-00D9FF?style=for-the-badge&logo=netlify&logoColor=black)](https://roleforgeai.netlify.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#resumefit-code-link)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev/ResumeFit-AI-Backend)
 
 </div>
 
