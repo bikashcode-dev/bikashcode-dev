@@ -79,7 +79,7 @@ public class BikashSah {
 ![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=thunderbird&logoColor=white)
 
 ###  Messaging & Cache
-![Kafka](https://img.shields.io/badge/Kafka_(Basic)-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka_Fundamentals-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis_Integration_(Basic)-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ###  Tools & Dev
