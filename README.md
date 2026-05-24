@@ -32,7 +32,7 @@ public class BikashSah {
     String role    = "Java Full Stack Developer";
     String focus   = "Spring Boot · REST APIs · real-world full-stack project";
 
-    String builds  = "Backend systems, Chrome extensions, full stack -ATS resumeFIT - AI, Ticket booking application, AI tools, and full-stack                                applications";
+    String builds  = "Backend systems, Chrome extensions, full stack -ATS resumeFIT - AI, Ticket booking application, AI tools, and full-stack applications";
     String loves   = "Clean code, problem solving, teamwork, continuous learning, and new technology";
 
     String email   = "bikashcod@gmail.com";
