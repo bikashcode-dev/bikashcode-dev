@@ -169,6 +169,19 @@ public class BikashSah {
 ![ATS](https://img.shields.io/badge/ATS_Analysis-1A73E8?style=flat-square&logo=readme&logoColor=white)
 
 ---
+## Other Projects
+
+<div align="center">
+
+| Project | Description |
+|---|---|
+|  Railway Ticket Booking Console App | Core Java based railway reservation system with login, booking, cancellation, seat management, JSON storage, password encoding, and future SQL integration support. |
+|  Acadify LMS | Learning management platform with authentication, course workflows, dashboard modules, and backend APIs. |
+|  Syncore Social App | Social-sharing backend application with account handling, post creation, and authentication workflows. |
+
+</div>
+
+
 ##  GitHub Stats
 
 <div align="center">
