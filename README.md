@@ -169,14 +169,6 @@ public class BikashSah {
 ![ATS](https://img.shields.io/badge/ATS_Analysis-1A73E8?style=flat-square&logo=readme&logoColor=white)
 
 ---
-
-**Other project**
-<div align="center">
-  
-  ![Java](https://img.shields.io/badge/Railway-Ticket-Booking-conasol-application)
-  
-</div>
-
 ##  GitHub Stats
 
 <div align="center">
