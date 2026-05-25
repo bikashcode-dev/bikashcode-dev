@@ -173,7 +173,7 @@ public class BikashSah {
 **Other project**
 <div align="center">
   
-  ![Java](https://img.shields.io/badge/Railway-Ticket-Booking-conasol-application-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Java](https://img.shields.io/badge/Railway-Ticket-Booking-conasol-application)
   
 </div>
 
