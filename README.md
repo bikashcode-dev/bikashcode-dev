@@ -182,7 +182,7 @@ public class BikashSah {
 </div>
 
 
-##  GitHub Stats
+##  GitHub Status
 
 <div align="center">
 
