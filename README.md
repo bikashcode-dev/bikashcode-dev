@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Bikah%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:bikashsah.dev@gamil.com">
+<a href="mailto:bikashcod@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-bikashcod@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
@@ -20,6 +20,8 @@
 </a>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 </div>
 
@@ -118,7 +120,7 @@ public class BikashSah {
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black)]()
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/bikashcode-dev/quickmail-AI-backend](https://github.com/bikashcode-dev/quickmail-AI-backend))
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev/quickmail-AI-backend)
 
 </div>
 
@@ -169,24 +171,38 @@ public class BikashSah {
 ![ATS](https://img.shields.io/badge/ATS_Analysis-1A73E8?style=flat-square&logo=readme&logoColor=white)
 
 ---
+
 ## Other Projects
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-|  Railway Ticket Booking Console App | Core Java based railway reservation system with login, booking, cancellation, seat management, JSON storage, password encoding, and future SQL integration support. |
-|  Acadify LMS | Learning management platform with authentication, course workflows, dashboard modules, and backend APIs. |
-|  Syncore Social App | Social-sharing backend application with account handling, post creation, and authentication workflows. |
+| Project | Description | Repo |
+|---|---|---|
+| **Railway Ticket Booking** `Core Java · OOP · JSON` | Terminal-based railway reservation system — login, booking, cancellation & seat management. No framework, pure Java. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/railway-ticket-booking) |
+| **Acadify — LMS** `Spring Boot · JWT · MySQL` | Backend LMS with role-based auth (Admin/Instructor/Student), course lifecycle APIs & secured endpoints. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/acadify-lms) |
+| **Syncore — Social App** `Spring Boot · MongoDB · JWT` | Social platform backend — user accounts, post feed, follow/unfollow & interaction APIs with NoSQL modeling. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/syncore-social-app) |
 
 </div>
 
+---
 
-##  GitHub Status
+##  GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashcode-dev&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+##  Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
