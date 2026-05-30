@@ -180,7 +180,7 @@ public class BikashSah {
 |---|---|---|
 | **Railway Ticket Booking** `Core Java · OOP · JSON` | Terminal-based railway reservation system — login, booking, cancellation & seat management. No framework, pure Java. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/Railway-Ticket-Booking-conasol-application) |
 | **Acadify — LMS** `Spring Boot · JWT · MySQL` | Backend LMS with role-based auth (Admin/Instructor/Student), course lifecycle APIs & secured endpoints. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/acadify-lms) |
-| **Syncore — Social App** `Spring Boot · MongoDB · JWT` | Social platform backend — user accounts, post feed, follow/unfollow & interaction APIs with NoSQL modeling. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/syncore-social-app) |
+| **Syncore — Social App** `Spring Boot · MongoDB · JWT` | Social platform backend — user accounts, post feed, follow/unfollow & interaction APIs with NoSQL modeling. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/Syncore-Genral-application) |
 
 </div>
 
