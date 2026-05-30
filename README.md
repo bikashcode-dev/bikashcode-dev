@@ -12,7 +12,7 @@
 </a>
 &nbsp;
 <a href="mailto:bikashcod@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-bikashcod@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-bikashsah.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/bikashcode-dev">
