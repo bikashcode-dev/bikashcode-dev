@@ -35,7 +35,7 @@ public class BikashSah {
     String focus   = "Spring Boot · REST APIs · real-world full-stack project";
 
     String builds  = "Backend systems, Chrome extensions, full stack -ATS resumeFIT - AI, Ticket booking application, AI tools, and full-stack applications";
-    String loves   = "Clean code, problem solving, teamwork, continuous learning, and new technology";
+    String current  = "Clean code, problem solving, teamwork, continuous learning new technology";
 
     String email   = "bikashsah.dev@gmail.com";
     String phone   = "9771966891"
