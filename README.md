@@ -100,7 +100,7 @@ public class BikashSah {
 
 <div align="center">
 
-###  QuickMail AI — Gmail Chrome Extension
+###  QuickMail — Gmail Chrome Extension 
 
 </div>
 
@@ -138,7 +138,7 @@ public class BikashSah {
 
 <div align="center">
 
-###  ResumeFit AI — ATS Resume Builder & Analyzer
+###  ResumeFit — ATS Resume Builder & AI Analyzer
 
 </div>
 
