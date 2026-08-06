@@ -34,7 +34,7 @@ public class BikashSah {
     String role    = "Java Full Stack Developer";
     String focus   = "Spring Boot · REST APIs · real-world full-stack project";
 
-    String builds  = "Backend systems, Chrome extensions, full stack -ATS resumeFIT - AI, Ticket booking application, AI tools, and full-stack applications";
+    String builds  = "Backend systems, Chrome extensions, full stack -ATS resumeFIT - AI, Ticket booking  application, AI tools, and full-stack applications";
     String current  = "Clean code, problem solving, teamwork, continuous learning new technology";
 
     String email   = "bikashsah.dev@gmail.com";
@@ -42,7 +42,7 @@ public class BikashSah {
 }
 ```
 
->"Java Full-Stack Developer | Spring Boot Enthusiast | Building Scalable Backend Systems & AI-powered Automations. Passionate about writing clean code, designing RESTful APIs, and solving real-world problems. Always learning, building, and deploying.".
+>"Java Full-Stack Developer | Spring Boot Enthusiast | Building Scalable Backend Systems & AI-powered Automations. Passionate about writing clean code, designing RESTful APIs, and solving real-world problems. Always learning, building, and deploying."
 
 ---
 
