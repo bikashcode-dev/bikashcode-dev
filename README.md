@@ -105,18 +105,7 @@ public class BikashSah {
 </div>
 
 > A **Chrome Extension** that adds AI email generation and reply drafting directly inside Gmail.  
-> It uses an **OTP-based login system**, secure token/session handling, and a **Spring Boot backend** with multiple AI providers and fallback support.
-
-```
-✅ OTP-based login with secure token/session flow
-✅ AI mail generation directly inside Gmail compose box
-✅ QuickMail button reads incoming mail context and creates human-like draft replies
-✅ Tone selector with professional, friendly, formal, casual, polite, confident, and custom tone support
-✅ User instructions supported in compose and reply workflows
-✅ Multiple AI provider fallback system for better reliability
-✅ Fast email generation flow designed to reduce manual writing and copy-paste
----------NOT THE LIVE APP SOME TIME NO RUNING , HOST SLEEPING PROBLEM
-```
+> It uses an **OTP-based login system**, secure token/session handling, and a **Spring Boot backend** with multiple AI providers and fallback .
 
 <div align="center">
 
@@ -144,16 +133,6 @@ public class BikashSah {
 </div>
 
 > An **AI-powered resume platform** that compares a resume with a company job description, extracts ATS keywords, shows matching score, and suggests improvements for fresher, internship, and experienced profiles.
-
-```
-✅ Resume + job description analysis
-✅ ATS keyword extraction and matching score
-✅ Suggestions for skills, project order, internship, and experience sections
-✅ Supports resume inputs like PDF/DOC-style workflows and JD/skill inputs
-✅ Live resume preview and editing flow
-✅ Fresh ATS-friendly resume generation from user information
-✅ Built to improve resume relevance and recruiter readability
-```
 
 <div align="center">
 
