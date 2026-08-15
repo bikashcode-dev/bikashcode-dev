@@ -31,7 +31,7 @@
 
 ```java
 public class BikashSah {
-    String role    = "Java Full Stack Developer";
+    String role    = "Full Stack Developer";
     String focus   = "Spring Boot · REST APIs · real-world full-stack project";
 
     String builds  = "Backend systems, Chrome extensions, full stack -ATS resumeFIT - AI, Ticket booking  application, AI tools, and full-stack applications";
@@ -87,8 +87,6 @@ public class BikashSah {
 ###  Tools & Dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
