@@ -95,7 +95,7 @@ public class BikashSah {
 
 <div align="center">
 
-### InsightIQ — AI-Powered Sales Analytics Platform
+### InsightIQ — Sales Analytics Platform
 
 </div>
 
