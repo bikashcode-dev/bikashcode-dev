@@ -39,7 +39,7 @@ public class BikashSah {
 }
 ```
 
-> "Java Full-Stack Developer | Spring Boot Enthusiast | Building Scalable Backend Systems & AI-powered Automations. Passionate about writing clean code, designing RESTful APIs, and solving real-world problems. Always learning, building, and deploying."
+> "Built and shipped 5+ production-ready applications — from AI-powered Gmail automation to ATS resume analyzers — using Spring Boot and modern AI APIs. Focused on writing clean, scalable code and solving real business problems"
 
 ---
 
