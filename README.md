@@ -32,9 +32,9 @@
 ```java
 public class BikashSah {
     String role     = "Java Full-Stack Developer";
-    String focus    = "Spring Boot · REST APIs · AI-Powered Applications";
-    String builds   = "Backend systems, Chrome extensions, ATS resume analyzers, ticket booking apps, and AI-powered tools";
-    String current  = "Clean code, problem solving, teamwork, and continuously learning new technologies";
+    String stack    = "Spring Boot · Spring Security · REST APIs · MySQL · MongoDB";
+    String shipped  = "InsightIQ (AI sales analytics), QuickMail (AI Gmail extension), Syncore (social platform backend)";
+    String strength = "Turning AI APIs into practical backend automation";
     String email    = "bikashsah.dev@gmail.com";
 }
 ```
