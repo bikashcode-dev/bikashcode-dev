@@ -92,10 +92,11 @@ public class BikashSah {
 ---
 
 ## Featured Projects
+<!-- These match the 6 repos pinned on the profile — keep this list and the pinned repos in sync -->
 
 <div align="center">
 
-### InsightIQ — Sales Analytics Platform
+### InsightIQ — AI-Powered Sales Analytics Platform
 
 </div>
 
@@ -123,11 +124,12 @@ public class BikashSah {
 </div>
 
 > A **Chrome Extension** that adds AI email generation and reply drafting directly inside Gmail.
-> Built with an **OTP-based login system**, secure token/session handling, and a **Spring Boot backend** integrating multiple AI providers with automatic fallback.
+> Built with an **OTP-based login system**, secure token/session handling, and a **Spring Boot backend** integrating multiple AI providers with automatic fallback. Backend and frontend built and maintained as separate services.
 
 <div align="center">
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev/quickmail-AI-backend)
+[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev/quickmail-AI-backend)
+[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev/quickmail-AI-frontend)
 
 </div>
 
@@ -169,14 +171,58 @@ public class BikashSah {
 
 ---
 
+<div align="center">
+
+### Acadify — Learning Management System
+
+</div>
+
+> Backend LMS built with **Spring Boot and JWT-based role authentication** (Admin / Instructor / Student), handling course lifecycle APIs and secured endpoints for a full academic workflow.
+
+<div align="center">
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev/Acadify-lms-backend)
+
+</div>
+
+**Tech Stack:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+<div align="center">
+
+### Syncore — Social Networking Platform
+
+</div>
+
+> Social platform backend with **MongoDB-based NoSQL modeling** — user accounts, post feed, follow/unfollow, and interaction APIs.
+
+<div align="center">
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev/Syncore-General-application)
+
+</div>
+
+**Tech Stack:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
 ## Other Projects
 
 <div align="center">
 
 | Project | Description | Repo |
 |---|---|---|
-| **Acadify — LMS** `Spring Boot · JWT · MySQL` | Backend LMS with role-based auth (Admin/Instructor/Student), course lifecycle APIs & secured endpoints. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/Acadify-lms-backend) |
-| **Syncore — Social App** `Spring Boot · MongoDB · JWT` | Social platform backend — user accounts, post feed, follow/unfollow & interaction APIs with NoSQL modeling. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/Syncore-General-application) |
 | **Railway Ticket Booking** `Core Java · OOP · Collections` | Terminal-based railway reservation system — login, booking, cancellation & seat management using the Collections framework. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/Railway-Ticket-Booking-Console-Application) |
 | **Bank Management System** `Core Java · Collections · Java 8` | Built from scratch — no frameworks, no shortcuts. Just Core Java, clean architecture, and real OOP. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/bankManagement-app-backend) |
 
