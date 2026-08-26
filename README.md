@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a73e8,100:00d9ff&height=200&section=header&text=Bikash%20Sah&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Java%20Full%20Stack%20Developer&descAlignY=75&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a73e8,100:00d9ff&height=200&section=header&text=Bikash%20Sah&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Java%20Full-Stack%20Developer" alt="Header"/>
 
 </div>
 
@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=bikashcode-dev&color=1a73e8&style=for-the-badge&label=Profile+Views"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 </div>
@@ -39,7 +37,7 @@ public class BikashSah {
 }
 ```
 
-> "Built and shipped 5+ production-ready applications — from AI-powered Gmail automation to ATS resume analyzers — using Spring Boot and modern AI APIs. Focused on writing clean, scalable code and solving real business problems"
+> "Built and shipped 5+ production-ready applications — from AI-powered Gmail automation to ATS resume analyzers — using Spring Boot and modern AI APIs. Focused on writing clean, scalable code and solving real-world problems with practical solutions."
 
 ---
 
@@ -100,7 +98,7 @@ public class BikashSah {
 
 </div>
 
-> Built a full-scale **Sales Analytics platform** using **Spring Boot, Ollama, and Python** that processes large sales datasets, identifies top and low-performing products, tracks revenue trends, and auto-generates business insights for decision-makers.
+> Built a full-scale **Sales Analytics platform** using **Spring Boot, Ollama, and Python** that processes large sales datasets, identifies top and low-performing products, tracks revenue trends, generates business insights, and creates interactive visualizations through natural language queries.
 
 <div align="center">
 
@@ -124,7 +122,7 @@ public class BikashSah {
 </div>
 
 > A **Chrome Extension** that adds AI email generation and reply drafting directly inside Gmail.
-> Built with an **OTP-based login system**, secure token/session handling, and a **Spring Boot backend** integrating multiple AI providers with automatic fallback. Backend and frontend built and maintained as separate services.
+> Built with an **OTP-based login system**, secure token/session handling, and a **Spring Boot backend** integrating multiple AI providers with automatic fallback. Backend and frontend built and maintained with production-grade security.
 
 <div align="center">
 
@@ -150,12 +148,12 @@ public class BikashSah {
 
 </div>
 
-> An **AI-powered resume platform** that compares a resume with a company job description, extracts ATS keywords, shows a matching score, and suggests improvements for fresher, internship, and experienced profiles.
+> An **AI-powered resume platform** that compares a resume with a company job description, extracts ATS keywords, shows a matching score, and suggests improvements for fresher, internship, and experienced candidates looking to beat ATS systems.
 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-00D9FF?style=for-the-badge&logo=netlify&logoColor=black)](https://roleforgeai.netlify.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev/ResumeFit-AI-Backend)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashcode-dev/ResumeFit-Backend)
 
 </div>
 
@@ -199,7 +197,7 @@ public class BikashSah {
 
 </div>
 
-> Social platform backend with **MongoDB-based NoSQL modeling** — user accounts, post feed, follow/unfollow, and interaction APIs.
+> Social platform backend with **MongoDB-based NoSQL modeling** — user accounts, post feed, follow/unfollow, and interaction APIs with real-time updates and scalable architecture.
 
 <div align="center">
 
@@ -222,32 +220,27 @@ public class BikashSah {
 
 | Project | Description | Repo |
 |---|---|---|
-| **Railway Ticket Booking** `Core Java · OOP · Collections` | Terminal-based railway reservation system — login, booking, cancellation & seat management using the Collections framework. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/Railway-Ticket-Booking-Console-Application) |
-| **Bank Management System** `Core Java · Collections · Java 8` | Built from scratch — no frameworks, no shortcuts. Just Core Java, clean architecture, and real OOP. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bikashcode-dev/bankManagement-app-backend) |
+| **Railway Ticket Booking** `Core Java · OOP · Collections` | Terminal-based railway reservation system — login, booking, cancellation & seat management using the Collections framework. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/bikashcode-dev/Railway-Ticket-Booking-conasol-application) |
+| **Bank Management System** `Core Java · Collections · Java 8` | Built from scratch — no frameworks, no shortcuts. Just Core Java, clean architecture, and real OOP principles. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/bikashcode-dev/bankManagemet-appl-backend) |
+| **Problem Solving DSA** `Java · Data Structures` | Comprehensive DSA practice covering arrays, trees, graphs, dynamic programming with well-documented solutions. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/bikashcode-dev/Problem-Solving-DSA) |
 
 </div>
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashcode-dev&theme=tokyonight&hide_border=true" height="170"/>
+### My GitHub Activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikashcode-dev&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/bikashcode-dev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/bikashcode-dev)
 
 </div>
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
+---
 
 ## Let's Connect
 
@@ -261,7 +254,7 @@ public class BikashSah {
 
 <br/>
 
-> *"Focused on building real-world full-stack products and solving practical problems."*
+> *"Focused on building real-world full-stack products and solving practical problems with clean, scalable code."*
 
 </div>
 
@@ -269,6 +262,6 @@ public class BikashSah {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0f2027&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0f2027&height=120&section=footer&animation=fadeIn" alt="Footer"/>
 
 </div>
