@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Gmail-bikashsah.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
+    
 <a href="https://github.com/bikashcode-dev">
   <img src="https://img.shields.io/badge/GitHub-bikashcode--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -29,11 +30,9 @@
 
 ```java
 public class BikashSah {
-    String role     = "Java Full-Stack Developer";
-    String stack    = "Spring Boot · Spring Security · REST APIs · MySQL · MongoDB";
+    String role     = "Full-Stack Develope ";
     String shipped  = "InsightIQ (AI sales analytics), QuickMail (AI Gmail extension), Syncore (social platform backend)";
-    String strength = "Turning AI APIs into practical backend automation";
-    String email    = "bikashsah.dev@gmail.com";
+    String strength = " implemt an automation chrome extension self - achive 60 % fast productivity , and full stack data AI sales product analytics with proper production style MVC or bunnies logic ;
 }
 ```
 
