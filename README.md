@@ -32,7 +32,7 @@
 public class BikashSah {
     String role     = "Full-Stack Develope ";
     String shipped  = "InsightIQ (AI sales analytics), QuickMail (AI Gmail extension), Syncore (social platform backend)";
-    String strength = " implemt an automation chrome extension self - achive 60 % fast productivity , and full stack data AI sales product analytics with proper production style MVC or bunnies logic ;
+    String strength = " implemt an automation chrome extension self - achive 60 % fast productivity , I built a Spring Boot-based sales analytics platform with REST APIs, MySQL, authentication/security, caching and an AI analytical interface, with Streamlit consuming those APIs for visualization
 }
 ```
 
