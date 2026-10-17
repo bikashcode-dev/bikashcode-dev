@@ -69,11 +69,6 @@ public class BikashSah {
 ![React](https://img.shields.io/badge/React_(Basic)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-### AI & Automation
-![AI APIs](https://img.shields.io/badge/AI_APIs-00D9FF?style=for-the-badge&logo=openai&logoColor=black)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=thunderbird&logoColor=white)
-
 ### Messaging & Cache
 ![Kafka](https://img.shields.io/badge/Kafka_Fundamentals-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis_Integration_(Basic)-DC382D?style=for-the-badge&logo=redis&logoColor=white)
