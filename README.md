@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a73e8,100:00d9ff&height=200&section=header&text=Bikash%20Sah&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Java%20Full-Stack%20Developer" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a73e8,100:00d9ff&height=200&section=header&text=Bikash%20Sah&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Java%20Full-Stack%20Developer" 
+  alt="Header"/>
 
 </div>
 
