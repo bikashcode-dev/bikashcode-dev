@@ -16,80 +16,39 @@
 
 ## Java Developer | Spring Boot & Backend Engineering
 
-I build backend applications and AI-integrated products using **Java, Spring Boot, REST APIs, and relational databases**. My project work includes analytics workflows, an AI-assisted email extension, resume matching, and learning-management APIs.
+I build **Java and Spring Boot backends** with REST APIs, database integration, and authentication. My projects include AI-assisted email drafting, sales analytics, resume matching, and learning-management APIs.
 
-**Target roles:** Java Developer · Spring Boot Developer · Backend Developer
-
-**Availability:** Open to opportunities and available for immediate joining.
-
-- **Backend:** REST API development, Spring Boot, Spring Security
-- **Data:** MySQL, Redis, JPA, Hibernate, JDBC
-- **Security:** JWT, OTP-based authentication
-- **AI integrations:** Gemini API, Groq API, Ollama
-- **Engineering:** Git, Maven, Postman, JUnit, GitHub Actions
-- **Current focus:** Maintainable APIs, backend design, testing, and problem-solving
+- **Target roles:** Java Developer · Spring Boot Developer · Backend Developer
+- **Availability:** Open to opportunities — **available for immediate joining**
+- **Focus:** Clean API design, secure authentication, data access, and practical problem-solving
 
 ---
 
-## Skills & Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
 
 <table>
-<tr>
-<td width="25%" valign="top"><b>Backend Development</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Database & ORM</b></td>
-<td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" alt="JPA"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
-<img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square" alt="JDBC"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Auth & API Testing</b></td>
-<td>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/OTP_Authentication-7C3AED?style=flat-square" alt="OTP authentication"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>AI Integrations</b></td>
-<td>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" alt="Groq API"/>
-<img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Tools & Web Basics</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-</td>
-</tr>
+<tr><td align="right"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring&perline=8" alt="Java and Spring Boot"/></td></tr>
+<tr><td align="right"><b>Data & Cache</b></td><td><img src="https://skillicons.dev/icons?i=mysql,redis&perline=8" alt="MySQL and Redis"/></td></tr>
+<tr><td align="right"><b>Messaging & Delivery</b></td><td><img src="https://skillicons.dev/icons?i=kafka,azure,githubactions&perline=8" alt="Kafka, Azure and GitHub Actions"/></td></tr>
+<tr><td align="right"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8" alt="HTML, CSS, JavaScript and React"/></td></tr>
+<tr><td align="right"><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,maven,python&perline=8" alt="Git, GitHub, Postman, Maven and Python"/></td></tr>
 </table>
+
+<sub>Spring Security · JWT · OTP Authentication · JPA · Hibernate · JDBC · JUnit · SonarQube · Chrome Extensions</sub>
 
 </div>
 
-**Core focus:** Java · Spring Boot · REST API development · SQL · Authentication · Backend application design
+### AI integrations — what they do
+
+I connect AI models to applications through APIs or a local model runtime, so the app can do more than standard CRUD operations:
+
+- **Gemini API + Groq API:** used in QuickMail's AI email-drafting workflow, with a fallback provider path.
+- **Ollama:** runs a local language model for InsightIQ's natural-language sales-data workflow.
+- **Streamlit:** provides the interactive interface for exploring InsightIQ results.
+
+**Core backend focus:** Java · Spring Boot · REST APIs · MySQL · Redis · Authentication · Backend application design
 
 
 ---
@@ -243,8 +202,8 @@ flowchart LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&hide_border=true&bg_color=080B18&title_color=22D3EE&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&hide_border=true&bg_color=080B18&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&hide_border=true&bg_color=080B18&title_color=22D3EE&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github" alt="GitHub statistics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&hide_border=true&bg_color=080B18&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages"/>
 
 <br/><br/>
 
@@ -252,7 +211,7 @@ flowchart LR
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
 
 </div>
 
