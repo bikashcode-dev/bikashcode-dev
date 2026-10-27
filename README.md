@@ -61,33 +61,32 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=java,spring&perline=8" alt="Java and Spring Boot"/>
-
-<p><sub>Core Java · Java 8 · Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JPA / Hibernate</sub></p>
-
-**Frontend Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8" alt="HTML, CSS, JavaScript and React"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=8" alt="MySQL, MongoDB and Redis"/>
-
-**Tools, Testing & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven,vscode,python&perline=8" alt="Git, GitHub, Postman, Maven, VS Code and Python"/>
-
-**Cloud & Delivery**
-
-<img src="https://skillicons.dev/icons?i=azure,docker,githubactions&perline=8" alt="Azure, Docker and GitHub Actions"/>
-
-<p><sub>JUnit · SonarQube · API testing · AI API integrations</sub></p>
-
-</div>
+<table>
+<tr>
+<td width="24%"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,javascript,c,cpp" alt="Java, JavaScript, C and C++"/><br/><sub>Core Java · Java 8</sub></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/><br/><sub>Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JPA / Hibernate</sub></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React"/><br/><sub>HTML · CSS · JavaScript · React · Chrome Extensions</sub></td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="MySQL, MongoDB and Redis"/><br/><sub>MySQL · MongoDB · Redis fundamentals</sub></td>
+</tr>
+<tr>
+<td><b>Tools & Testing</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode" alt="Git, GitHub, Maven, Postman and VS Code"/><br/><sub>JUnit · SonarQube · Postman · Maven</sub></td>
+</tr>
+<tr>
+<td><b>Cloud & Deployment</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" alt="AWS, Azure, Docker and GitHub Actions"/><br/><sub>AWS & Azure fundamentals · Render · Netlify</sub></td>
+</tr>
+</table>
 
 ---
 
