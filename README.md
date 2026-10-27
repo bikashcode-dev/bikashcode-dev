@@ -1,161 +1,251 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a73e8,100:00d9ff&height=190&section=header&text=Bikash%20Sah&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Java%20Full-Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="Bikash Sah"/>
-
 <div align="center">
 
-<a href="https://github.com/bikashcode-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&height=40&lines=Spring+Boot+%7C+REST+APIs+%7C+Microservices;Secure+auth+with+JWT+%26+OTP;Redis+caching+%26+Kafka+messaging;AI-powered+products+that+ship" alt="Typing animation"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:080B18,45:172554,75:6D28D9,100:06B6D4&text=Bikash%20Sah&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" alt="Bikash Sah"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=680&lines=Java+Developer;Spring+Boot+%7C+REST+APIs+%7C+Backend+Engineering;AI-Integrated+Applications+%7C+Problem+Solving" alt="Java developer introduction"/>
 
-<a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:bikashsah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-2ea44f?style=for-the-badge" alt="Open to work"/>
-<img src="https://komarev.com/ghpvc/?username=bikashcode-dev&label=Profile%20views&color=1a73e8&style=for-the-badge" alt="Profile views"/>
+<p>
+<a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:bikashsah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Availability-Immediate%20Joining-16A34A?style=for-the-badge" alt="Available for immediate joining"/>
+</p>
 
-</div>
-
-<br/>
-
-## 👋 Hi, I'm Bikash
-
-I'm a Java developer who has **shipped 5+ applications**, from an AI-powered Gmail extension to a sales analytics platform. I build secure Spring Boot backends, plug in AI models where they add real value, and write code that stays clean as it scales.
-
-|  |  |
-|---|---|
-| 🔭 **Building** | Secure REST backends and AI-integrated products |
-| 🌱 **Learning** | Microservices, Kafka, Azure and CI/CD pipelines |
-| 💼 **Open to** | Java Developer · Backend · Full-Stack roles (remote or on-site) |
-| 📩 **Reach me** | bikashsah.dev@gmail.com |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<table>
-<tr><td align="right"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring&perline=8" alt="Java, Spring"/></td></tr>
-<tr><td align="right"><b>Data and Cache</b></td><td><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=8" alt="MySQL, MongoDB, Redis"/></td></tr>
-<tr><td align="right"><b>Messaging, Cloud, CI/CD</b></td><td><img src="https://skillicons.dev/icons?i=kafka,azure,githubactions&perline=8" alt="Kafka, Azure, GitHub Actions"/></td></tr>
-<tr><td align="right"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8" alt="HTML, CSS, JavaScript, React"/></td></tr>
-<tr><td align="right"><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,maven,python&perline=8" alt="Git, GitHub, Postman, Maven, Python"/></td></tr>
-</table>
-
-<sub>Spring Security · JWT · OTP Auth · Microservices · JPA · Hibernate · JDBC · JUnit · SonarQube · Ollama · Gemini API · Groq API · Streamlit · Chrome Extensions</sub>
+<img src="https://komarev.com/ghpvc/?username=bikashcode-dev&style=flat-square&color=7C3AED&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## Java Developer | Spring Boot & Backend Engineering
+
+I build backend applications and AI-integrated products using **Java, Spring Boot, REST APIs, and relational databases**. My project work includes analytics workflows, an AI-assisted email extension, resume matching, and learning-management APIs.
+
+**Target roles:** Java Developer · Spring Boot Developer · Backend Developer
+
+**Availability:** Open to opportunities and available for immediate joining.
+
+- **Backend:** REST API development, Spring Boot, Spring Security
+- **Data:** MySQL, Redis, JPA, Hibernate, JDBC
+- **Security:** JWT, OTP-based authentication
+- **AI integrations:** Gemini API, Groq API, Ollama
+- **Engineering:** Git, Maven, Postman, JUnit, GitHub Actions
+- **Current focus:** Maintainable APIs, backend design, testing, and problem-solving
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### 01 — Build APIs
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring, Maven"/>
+
+**Java · Spring Boot · REST APIs · Spring Security · Maven**
+
+### 02 — Store & Access Data
+
+<img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" alt="MySQL and Redis"/>
+
+**MySQL · Redis · JPA · Hibernate · JDBC**
+
+### 03 — Connect AI Services
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+
+**Gemini API · Groq API · Ollama · Streamlit**
+
+### 04 — Build & Deliver
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,githubactions,azure,docker&theme=dark" alt="Git, GitHub, Postman, GitHub Actions, Azure and Docker"/>
+
+**Git · GitHub · Postman · GitHub Actions · Azure · Docker**
+
+### 05 — Web Fundamentals
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript and React"/>
+
+**HTML · CSS · JavaScript · React**
+
+</div>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/bikashcode-dev/InsightIq-Application-Backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashcode-dev&repo=InsightIq-Application-Backend&theme=tokyonight&hide_border=true" alt="InsightIQ"/></a>
+### 📊 InsightIQ
 
-**📊 InsightIQ**: ask sales data questions in plain English, get charts and insights back. Spring Boot APIs, MySQL, Redis caching, local Ollama model, Streamlit UI.
+**AI-assisted sales analytics**
+
+Ask questions about sales data and explore insights through an analytics workflow.
+
+- Spring Boot REST API
+- MySQL data storage
+- Redis caching
+- Ollama integration and Streamlit interface
+
+**Stack:** Java · Spring Boot · MySQL · Redis · Ollama
+
+<a href="https://github.com/bikashcode-dev/InsightIq-Application-Backend"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View InsightIQ repository"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/bikashcode-dev/quickmail-AI-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashcode-dev&repo=quickmail-AI-backend&theme=tokyonight&hide_border=true" alt="QuickMail"/></a>
+### ✉️ QuickMail AI
 
-**✉️ QuickMail**: Chrome extension that writes and replies to emails inside Gmail. OTP login, token security, multi-provider AI fallback. [Extension repo](https://github.com/bikashcode-dev/quickmail-AI-frontend)
+**AI-assisted email productivity**
+
+A Gmail-oriented Chrome extension for drafting and replying to emails with AI support.
+
+- Spring Boot backend
+- OTP login and token security
+- AI provider integration and fallback
+- Browser extension frontend
+
+**Stack:** Java · Spring Boot · AI APIs · Chrome Extension
+
+<a href="https://github.com/bikashcode-dev/quickmail-AI-backend"><img src="https://img.shields.io/badge/BACKEND-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="QuickMail backend"/></a>
+<a href="https://github.com/bikashcode-dev/quickmail-AI-frontend"><img src="https://img.shields.io/badge/FRONTEND-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="QuickMail frontend"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/bikashcode-dev/ResumeFit-Backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashcode-dev&repo=ResumeFit-Backend&theme=tokyonight&hide_border=true" alt="ResumeFit"/></a>
+### 📄 ResumeFit
 
-**📄 ResumeFit**: compares a resume with a job description, extracts ATS keywords and gives a match score with fixes. PDF and DOCX support. [Live demo](https://roleforgeai.netlify.app/)
+**Resume and job-description matching**
+
+A tool for comparing resumes with job descriptions and highlighting relevant keywords and potential improvements.
+
+- Resume-to-role matching workflow
+- ATS keyword analysis
+- Match scoring and suggestions
+- PDF and DOCX workflows
+
+<a href="https://github.com/bikashcode-dev/ResumeFit-Backend"><img src="https://img.shields.io/badge/BACKEND-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="ResumeFit backend"/></a>
+<a href="https://roleforgeai.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ResumeFit live demo"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/bikashcode-dev/Acadify-lms-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashcode-dev&repo=Acadify-lms-backend&theme=tokyonight&hide_border=true" alt="Acadify"/></a>
+### 🎓 Acadify
 
-**🎓 Acadify**: learning management backend with JWT role-based access for Admin, Instructor and Student, plus course lifecycle APIs.
+**Learning management backend**
+
+Backend workflows for a learning-management application.
+
+- Admin, Instructor and Student roles
+- JWT-based access control
+- Course lifecycle APIs
+
+**Stack:** Java · Spring Boot · JWT · REST APIs
+
+<a href="https://github.com/bikashcode-dev/Acadify-lms-backend"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Acadify repository"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/bikashcode-dev/Syncore-General-application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashcode-dev&repo=Syncore-General-application&theme=tokyonight&hide_border=true" alt="Syncore"/></a>
+### 🌐 Syncore
 
-**🌐 Syncore**: social platform backend on MongoDB with posts, feed, follow/unfollow and interaction APIs.
+**Social application backend**
+
+A project exploring social features such as posts, feeds, following, and user interactions.
+
+<a href="https://github.com/bikashcode-dev/Syncore-General-application"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Syncore repository"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/bikashcode-dev/Problem-Solving-DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashcode-dev&repo=Problem-Solving-DSA&theme=tokyonight&hide_border=true" alt="DSA"/></a>
+### 🧠 Java DSA
 
-**🧠 Problem Solving DSA**: arrays, trees, graphs and dynamic programming in Java. Also: [Railway Booking](https://github.com/bikashcode-dev/Railway-Ticket-Booking-conasol-application) · [Bank Management](https://github.com/bikashcode-dev/bankManagemet-appl-backend)
+**Data structures & algorithms**
+
+Practice with programming fundamentals and problem-solving using Java.
+
+<a href="https://github.com/bikashcode-dev/Problem-Solving-DSA"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="DSA repository"/></a>
 
 </td>
 </tr>
 </table>
+
+### More projects
+
+- [Railway Ticket Booking](https://github.com/bikashcode-dev/Railway-Ticket-Booking-conasol-application)
+- [Bank Management Backend](https://github.com/bikashcode-dev/bankManagemet-appl-backend)
+
+---
+
+## How the applications fit together
 
 <details>
-<summary><b>🧩 How InsightIQ and QuickMail are put together</b></summary>
-
-<br/>
+<summary><b>InsightIQ — analytics flow</b></summary>
 
 ```mermaid
 flowchart LR
-    U[User question] --> S[Streamlit UI]
-    S --> A[Spring Boot REST API]
-    A --> D[(MySQL)]
-    A --> R[(Redis cache)]
-    A --> O[Ollama LLM]
+    U[User] --> UI[Streamlit UI]
+    UI --> API[Spring Boot REST API]
+    API --> DB[(MySQL)]
+    API --> C[(Redis Cache)]
+    API --> AI[Ollama]
 ```
 
+</details>
+
+<details>
+<summary><b>QuickMail AI — email workflow</b></summary>
+
 ```mermaid
 flowchart LR
-    G[Gmail + Chrome Extension] --> B[Spring Boot API]
-    B --> AU{OTP + Token auth}
-    AU --> P1[Gemini]
-    P1 -. on failure .-> P2[Groq]
+    U[User] --> EXT[Gmail Chrome Extension]
+    EXT --> API[Spring Boot API]
+    API --> AUTH{OTP / Token Auth}
+    AUTH --> AI[Gemini API]
+    AI -. Fallback .-> ALT[Groq API]
+    AI --> OUT[Email Draft]
+    ALT --> OUT
 ```
 
 </details>
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bikashcode-dev&show_icons=true&hide_border=true&bg_color=080B18&title_color=22D3EE&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashcode-dev&layout=compact&hide_border=true&bg_color=080B18&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=bikashcode-dev&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<br/><br/>
 
-<br/>
+<img width="75%" src="https://streak-stats.demolab.com?user=bikashcode-dev&hide_border=true&background=080B18&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-snake.svg" />
-</picture>
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/bikashcode-dev/bikashcode-dev/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
+## Let's connect
+
 <div align="center">
 
-<i>Building real-world products and solving practical problems with clean, scalable code.</i>
+**Interested in Java, Spring Boot, backend development, or AI-integrated applications?**
 
-<a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:bikashsah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/bikashcode-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:bikashsah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<sub>Building useful software, one commit at a time.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:172554,100:080B18" alt="Footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0f2027&height=90&section=footer" width="100%" alt=""/>
