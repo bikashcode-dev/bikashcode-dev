@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:bikashsah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/bikashcode-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2DA44E?style=for-the-badge" alt="Open to opportunities"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-2DA44E?style=for-the-badge" alt="Open to work"/>
 </p>
 
 <p>
@@ -22,47 +22,39 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer with a backend focus** based in Delhi, India. I enjoy turning ideas into useful software—building Spring Boot applications and REST APIs, connecting databases, and creating frontend experiences that work smoothly with the backend.
+I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi, India. I enjoy building practical web applications, designing REST APIs, integrating databases, and creating frontend experiences that work smoothly with the backend.
 
 - 🎓 **Education:** BCA — Software Engineering (2023–2026)
-- 🎯 **Target roles:** Java Full Stack Developer, Java Backend Developer, Frontend Developer, Junior Software Engineer
-- 💻 **Core focus:** Java, Spring Boot, REST APIs, SQL, and full-stack application development
-- 🤖 **Interests:** AI-integrated applications, LLMs, workflow automation, and practical software engineering
-- 🚀 **Job status:** Open to entry-level opportunities and immediate joining
-- 📍 **Location:** Delhi, India
+- 🎯 **Target roles:** Java Full Stack Developer · Backend Developer · Frontend Developer · Junior Software Engineer
+- 💼 **Availability:** Open to entry-level opportunities and immediate joining
+- 💡 **Interests:** AI-powered applications, LLM integrations, workflow automation, and solving real-world problems
 
 ---
 
-## 🎯 Target Roles & Current Learning
+## 🎯 Career Focus
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🎯 Target Roles</h3>
-
-- Java Full Stack Developer
-- Java / Spring Boot Developer
-- Backend Developer
-- Frontend Developer
-- Junior Software Engineer
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📚 Currently Learning</h3>
-
-<img src="https://img.shields.io/badge/1-Microservices-0969DA?style=flat-square" alt="Microservices"/>
-<img src="https://img.shields.io/badge/2-Apache_Kafka-231F20?style=flat-square" alt="Kafka"/>
-<img src="https://img.shields.io/badge/3-CI%2FCD-6F42C1?style=flat-square" alt="CI/CD"/>
-<img src="https://img.shields.io/badge/4-DSA-1F883D?style=flat-square" alt="Data structures and algorithms"/>
-<img src="https://img.shields.io/badge/5-LLM_Fundamentals-8250DF?style=flat-square" alt="LLM fundamentals"/>
-<img src="https://img.shields.io/badge/6-Workflow_Automation-BC4C00?style=flat-square" alt="Workflow automation"/>
-
-<p><sub>Also strengthening Spring Security, JPA/Hibernate, SQL, testing, and deployment fundamentals.</sub></p>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Roles I'm Targeting</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java_Full_Stack-Developer-0969DA?style=flat-square" alt="Java Full Stack Developer"/><br/>
+        <img src="https://img.shields.io/badge/Backend-Developer-6F42C1?style=flat-square" alt="Backend Developer"/><br/>
+        <img src="https://img.shields.io/badge/Frontend-Developer-1F883D?style=flat-square" alt="Frontend Developer"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Currently Learning</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Microservices-0969DA?style=flat-square" alt="Microservices"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+        <img src="https://img.shields.io/badge/CI%2FCD-6F42C1?style=flat-square" alt="CI/CD"/><br/>
+        <img src="https://img.shields.io/badge/DSA-1F883D?style=flat-square" alt="DSA"/>
+        <img src="https://img.shields.io/badge/LLM-8250DF?style=flat-square" alt="LLM"/>
+        <img src="https://img.shields.io/badge/Automation-BC4C00?style=flat-square" alt="Automation"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -75,6 +67,8 @@ I'm a **Java Full Stack Developer with a backend focus** based in Delhi, India. 
 
 <img src="https://skillicons.dev/icons?i=java,spring&perline=8" alt="Java and Spring Boot"/>
 
+<p><sub>Core Java · Java 8 · Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JPA / Hibernate</sub></p>
+
 **Frontend Development**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8" alt="HTML, CSS, JavaScript and React"/>
@@ -83,17 +77,17 @@ I'm a **Java Full Stack Developer with a backend focus** based in Delhi, India. 
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=8" alt="MySQL, MongoDB and Redis"/>
 
-**Tools & Development**
+**Tools, Testing & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven,vscode&perline=8" alt="Git, GitHub, Postman, Maven and VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,maven,vscode,python&perline=8" alt="Git, GitHub, Postman, Maven, VS Code and Python"/>
 
-**Cloud & DevOps**
+**Cloud & Delivery**
 
 <img src="https://skillicons.dev/icons?i=azure,docker,githubactions&perline=8" alt="Azure, Docker and GitHub Actions"/>
 
-</div>
+<p><sub>JUnit · SonarQube · API testing · AI API integrations</sub></p>
 
-<p align="center"><sub>Working with or learning: Spring Security · JWT · JDBC · JPA/Hibernate · JUnit · SonarQube · REST API testing · Python</sub></p>
+</div>
 
 ---
 
@@ -116,11 +110,11 @@ I'm a **Java Full Stack Developer with a backend focus** based in Delhi, India. 
 
 <div align="center">
 
-I'm happy to connect with developers, collaborate on useful software, and discuss opportunities in Java, backend, and full-stack development.
+I'm open to meeting developers, collaborating on useful software, and discussing opportunities in Java, backend, and full-stack development.
 
-<a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:bikashsah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:bikashsah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
 
-<sub>Learning consistently · Building practically · Growing one commit at a time</sub>
+<sub>Building useful things · Improving every day · One commit at a time</sub>
 
 </div>
