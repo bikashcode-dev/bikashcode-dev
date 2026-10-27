@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,30:1D4ED8,65:7C3AED,100:06B6D4&height=220&section=header&text=BIKASH%20SAH&fontSize=60&fontColor=FFFFFF&fontAlignY=36&desc=JAVA%20DEVELOPER%20%7C%20SPRING%20BOOT%20%7C%20BACKEND&descSize=17&descAlignY=58&animation=fadeIn" alt="Bikash Sah — Java Developer, Spring Boot and Backend"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=680&lines=Java+Developer;Spring+Boot+%7C+REST+APIs+%7C+Backend+Engineering;AI-Integrated+Applications+%7C+Problem+Solving" alt="Java developer introduction"/>
 
 <p>
