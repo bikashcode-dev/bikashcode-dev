@@ -73,7 +73,7 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 <td><b>Backend & APIs</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=spring" alt="Spring"/><br/>
-<img src="https://img.shields.io/badge/REST_API-Primary_Focus-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API — primary focus"/><br/>
+<img src="https://img.shields.io/badge/REST_API-KEY_SKILL-0969DA?style=for-the-badge" alt="REST API — primary focus"/><br/>
 <sub>Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JPA / Hibernate</sub>
 </td>
 </tr>
@@ -87,7 +87,9 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 <tr>
 <td><b>Databases & Cache</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="MySQL, MongoDB and Redis"/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=3" alt="MySQL, MongoDB and Redis"/><br/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/><br/>
 <sub>MySQL · MongoDB · Redis</sub>
 </td>
 </tr>
@@ -101,7 +103,8 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 <tr>
 <td><b>Cloud & Delivery</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" alt="AWS, Azure, Docker and GitHub Actions"/><br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions&perline=4" alt="AWS, Azure, Docker and GitHub Actions"/><br/>
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Web Services"/><br/>
 <sub>AWS · Azure · Docker · GitHub Actions · CI/CD · Render · Netlify</sub>
 </td>
 </tr>
