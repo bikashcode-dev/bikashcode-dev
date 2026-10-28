@@ -63,48 +63,65 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 
 <table>
 <tr>
-<td width="24%"><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=java,c,js" alt="Java, C and JavaScript"/><br/>
+<td width="50%" valign="top">
+
+<h3>☕ Languages</h3>
+
+<img height="34" src="https://skillicons.dev/icons?i=java,c,js&perline=3" alt="Java, C, JavaScript"/>
+
 <sub>Java · Java 8 · C · JavaScript</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚙️ Backend & APIs</h3>
+
+<img height="34" src="https://skillicons.dev/icons?i=spring&perline=1" alt="Spring"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-KEY_SKILL-0969DA?style=for-the-badge" alt="REST APIs — key skill"/>
+
+<sub>Spring Boot · Spring MVC · Spring Security · JDBC · JPA / Hibernate</sub>
+
 </td>
 </tr>
 <tr>
-<td><b>Backend & APIs</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=spring" alt="Spring"/><br/>
-<img src="https://img.shields.io/badge/REST_API-KEY_SKILL-0969DA?style=for-the-badge" alt="REST API — primary focus"/><br/>
-<sub>Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JPA / Hibernate</sub>
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript and React"/><br/>
+<td width="50%" valign="top">
+
+<h3>🎨 Frontend</h3>
+
+<img height="34" src="https://skillicons.dev/icons?i=html,css,react&perline=3" alt="HTML, CSS, React"/>
+
 <sub>HTML · CSS · JavaScript · React · Chrome Extensions</sub>
+
 </td>
-</tr>
-<tr>
-<td><b>Databases & Cache</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=3" alt="MySQL, MongoDB and Redis"/><br/>
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/><br/>
+<td width="50%" valign="top">
+
+<h3>🗄️ Databases & Cache</h3>
+
+<img height="34" src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=3" alt="MySQL, MongoDB, Redis"/>
+
 <sub>MySQL · MongoDB · Redis</sub>
+
 </td>
 </tr>
 <tr>
-<td><b>Tools & Testing</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode" alt="Git, GitHub, Maven, Postman and VS Code"/><br/>
+<td width="50%" valign="top">
+
+<h3>🧰 Tools & Testing</h3>
+
+<img height="34" src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode&perline=5" alt="Git, GitHub, Maven, Postman, VS Code"/>
+
 <sub>Git · GitHub · Maven · Postman · VS Code · JUnit · SonarQube</sub>
+
 </td>
-</tr>
-<tr>
-<td><b>Cloud & Delivery</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=azure,docker,githubactions&perline=4" alt="Azure, Docker and GitHub Actions"/><br/>
+<td width="50%" valign="top">
+
+<h3>☁️ Cloud & Delivery</h3>
+
+<img height="34" src="https://skillicons.dev/icons?i=azure,docker,githubactions&perline=3" alt="Azure, Docker, GitHub Actions"/>
+
 <sub>Azure · Docker · GitHub Actions · CI/CD · Render · Netlify</sub>
+
 </td>
 </tr>
 </table>
