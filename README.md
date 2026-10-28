@@ -103,9 +103,8 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 <tr>
 <td><b>Cloud & Delivery</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions&perline=4" alt="AWS, Azure, Docker and GitHub Actions"/><br/>
-<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Web Services"/><br/>
-<sub>AWS · Azure · Docker · GitHub Actions · CI/CD · Render · Netlify</sub>
+<img src="https://skillicons.dev/icons?i=azure,docker,githubactions&perline=4" alt="Azure, Docker and GitHub Actions"/><br/>
+<sub>Azure · Docker · GitHub Actions · CI/CD · Render · Netlify</sub>
 </td>
 </tr>
 </table>
