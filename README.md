@@ -27,7 +27,7 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 - 🎓 **Education:** BCA — Software Engineering (2023–2026)
 - 🎯 **Target roles:** Java Full Stack Developer · Backend Developer · Junior Software Engineer
 - 💼 **Availability:** Open to entry-level opportunities and immediate joining
-- 💡 **Interests:** Full stack develpment , LLM integrations, workflow automation, and solving real-world problems
+- 💡 **Interests:** Full-stack development, LLM integrations, workflow automation, and solving real-world problems
 
 ---
 
@@ -49,7 +49,7 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
         <img src="https://img.shields.io/badge/Microservices-0969DA?style=flat-square" alt="Microservices"/>
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
         <img src="https://img.shields.io/badge/CI%2FCD-6F42C1?style=flat-square" alt="CI/CD"/><br/>
-        <img src="https://img.shields.io/badge/System Design-1F883D?style=flat-square" alt="DSA"/>
+        <img src="https://img.shields.io/badge/System Design-1F883D?style=flat-square" alt="System Design"/>
         <img src="https://img.shields.io/badge/LLM-8250DF?style=flat-square" alt="LLM"/>
         <img src="https://img.shields.io/badge/Automation-BC4C00?style=flat-square" alt="Automation"/>
       </p>
@@ -64,30 +64,48 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 <table>
 <tr>
 <td width="24%"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=java,javascript,c,cpp" alt="Java, JavaScript, C and C++"/><br/><sub>Core Java · Java 8</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,c,js" alt="Java, C and JavaScript"/><br/>
+<sub>Java · Java 8 · C · JavaScript</sub>
+</td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/><br/><sub>Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JPA / Hibernate</sub></td>
+<td><b>Backend & APIs</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring"/><br/>
+<img src="https://img.shields.io/badge/REST_API-Primary_Focus-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API — primary focus"/><br/>
+<sub>Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JPA / Hibernate</sub>
+</td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React"/><br/><sub>HTML · CSS · JavaScript · React · Chrome Extensions</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript and React"/><br/>
+<sub>HTML · CSS · JavaScript · React · Chrome Extensions</sub>
+</td>
 </tr>
 <tr>
-<td><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="MySQL, MongoDB and Redis"/><br/><sub>MySQL · MongoDB · Redis fundamentals</sub></td>
+<td><b>Databases & Cache</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="MySQL, MongoDB and Redis"/><br/>
+<sub>MySQL · MongoDB · Redis</sub>
+</td>
 </tr>
 <tr>
 <td><b>Tools & Testing</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode" alt="Git, GitHub, Maven, Postman and VS Code"/><br/><sub>JUnit · SonarQube · Postman · Maven</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode" alt="Git, GitHub, Maven, Postman and VS Code"/><br/>
+<sub>Git · GitHub · Maven · Postman · VS Code · JUnit · SonarQube</sub>
+</td>
 </tr>
 <tr>
-<td><b>Cloud & Deployment</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" alt="AWS, Azure, Docker and GitHub Actions"/><br/><sub>AWS & Azure fundamentals · Render · Netlify</sub></td>
+<td><b>Cloud & Delivery</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" alt="AWS, Azure, Docker and GitHub Actions"/><br/>
+<sub>AWS · Azure · Docker · GitHub Actions · CI/CD · Render · Netlify</sub>
+</td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Analytics
