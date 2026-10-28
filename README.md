@@ -2,7 +2,7 @@
 
 # Hey 👋, I'm Bikash Sah
 
-### Java Full Stack Developer · Backend Developer · Frontend Developer
+### Java Full Stack Developer · Backend Developer
 
 <p>
   <a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -25,9 +25,9 @@
 I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi, India. I enjoy building practical web applications, designing REST APIs, integrating databases, and creating frontend experiences that work smoothly with the backend.
 
 - 🎓 **Education:** BCA — Software Engineering (2023–2026)
-- 🎯 **Target roles:** Java Full Stack Developer · Backend Developer · Frontend Developer · Junior Software Engineer
+- 🎯 **Target roles:** Java Full Stack Developer · Backend Developer · Junior Software Engineer
 - 💼 **Availability:** Open to entry-level opportunities and immediate joining
-- 💡 **Interests:** AI-powered applications, LLM integrations, workflow automation, and solving real-world problems
+- 💡 **Interests:** Full stack develpment , LLM integrations, workflow automation, and solving real-world problems
 
 ---
 
@@ -49,7 +49,7 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
         <img src="https://img.shields.io/badge/Microservices-0969DA?style=flat-square" alt="Microservices"/>
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
         <img src="https://img.shields.io/badge/CI%2FCD-6F42C1?style=flat-square" alt="CI/CD"/><br/>
-        <img src="https://img.shields.io/badge/DSA-1F883D?style=flat-square" alt="DSA"/>
+        <img src="https://img.shields.io/badge/System Design-1F883D?style=flat-square" alt="DSA"/>
         <img src="https://img.shields.io/badge/LLM-8250DF?style=flat-square" alt="LLM"/>
         <img src="https://img.shields.io/badge/Automation-BC4C00?style=flat-square" alt="Automation"/>
       </p>
