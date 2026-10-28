@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋, I'm Bikash Sah
+# Hey , I'm Bikash Sah
 
 ### Java Full Stack Developer · Backend Developer
 
@@ -78,7 +78,6 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 
 <img height="34" src="https://skillicons.dev/icons?i=spring&perline=1" alt="Spring"/>
 
-<img src="https://img.shields.io/badge/REST_APIs-KEY_SKILL-0969DA?style=for-the-badge" alt="REST APIs — key skill"/>
 
 <sub>Spring Boot · Spring MVC · Spring Security · JDBC · JPA / Hibernate</sub>
 
