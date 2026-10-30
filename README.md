@@ -24,7 +24,6 @@
 
 I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi, India. I enjoy building practical web applications, designing REST APIs, integrating databases, and creating frontend experiences that work smoothly with the backend.
 
-- 🎓 **Education:** BCA — Software Engineering (2023–2026)
 - 🎯 **Target roles:** Java Full Stack Developer · Backend Developer · Junior Software Engineer
 - 💼 **Availability:** Open to entry-level opportunities and immediate joining
 - 💡 **Interests:** Full-stack development, LLM integrations, workflow automation, and solving real-world problems
