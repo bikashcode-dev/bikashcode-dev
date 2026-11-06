@@ -1,8 +1,8 @@
 <div align="center">
 
-# Heloooo , I'm Bikash Sah
+# Hi i am Bikash sah 
 
-### Java Full Stack Developer · Backend Developer
+### Full Stack Developer · Backend Developer . Ready to hire looking for good Opportunity 
 
 <p>
   <a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
