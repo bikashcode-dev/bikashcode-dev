@@ -68,7 +68,7 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 
 <img height="34" src="https://skillicons.dev/icons?i=java,c,js&perline=3" alt="Java, C, JavaScript"/>
 
-<sub>Java · Java 8 · C · JavaScript</sub>
+<sub>Java · JavaScript</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +89,7 @@ I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi,
 
 <img height="34" src="https://skillicons.dev/icons?i=html,css,react&perline=3" alt="HTML, CSS, React"/>
 
-<sub>HTML · CSS · JavaScript · React · Chrome Extensions</sub>
+<sub>HTML · CSS · JavaScript · React </sub>
 
 </td>
 <td width="50%" valign="top">
