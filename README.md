@@ -2,7 +2,7 @@
 
 # Hi i am Bikash sah 
 
-### Full Stack Developer · Backend Developer . Ready to hire looking for good Opportunity 
+### Full Stack Developer · Backend Developer . Open to Work
 
 <p>
   <a href="https://www.linkedin.com/in/bikash-sah-java"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
