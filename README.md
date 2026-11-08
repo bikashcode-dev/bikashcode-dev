@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer with a strong backend focus**, based in Delhi, India. I enjoy building practical web applications, designing REST APIs, integrating databases, and creating frontend experiences that work smoothly with the backend.
+I'm a ** Full Stack Developer with a strong backend focus**, based in Delhi, India. I enjoy building practical web applications, designing REST APIs, integrating databases, and creating frontend experiences that work smoothly with the backend.
 
 - 🎯 **Target roles:** Java Full Stack Developer · Backend Developer · Junior Software Engineer
 - 💼 **Availability:** Open to entry-level opportunities and immediate joining
